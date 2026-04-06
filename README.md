@@ -1,2 +1,2 @@
 # AI_tasks
-tasks
+Collection of problem-solving solutions using Python
